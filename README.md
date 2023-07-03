@@ -6,6 +6,13 @@
 
 **Tudo que estiver dentro de chaves {} é variável e as chaves não pertencem ao comando.**
 
+Lembrando que o **TL1 do Unm2000**, roda na porta **3337**. Conectamos via **telnet** no endereço **IP do unm2000** na porta **3337** e todo comando termina com **;**
+```
+telnet {IP_do_Unm2000} 3337
+```
+Depois que fazermos a conexão acima, podemos ver uma saída parecida com essa:
+
+
 **Login TL1** (Usuário e senha do UNM)
 ```
 LOGIN:::CTAG::UN={usuário},PWD={senha};
