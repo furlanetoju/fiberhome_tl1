@@ -12,7 +12,7 @@ telnet {IP_do_Unm2000} 3337
 ```
 Depois que fazermos a conexão acima, podemos ver uma saída parecida com essa:
 
-<img src=Captura\de\tela\de\2023-07-03\11-56-54.png>
+<img src=Captura%20de%20tela%20de%202023-07-03%2011-56-54.png>
 
 **Login TL1** (Usuário e senha do UNM)
 ```
@@ -20,7 +20,7 @@ LOGIN:::CTAG::UN={usuário},PWD={senha};
 ```
 **Exemplo de login:**
 
-<img src=Captura de tela de 2023-07-03 11-57-53.png>
+<img src=Captura%20de%20tela%20de%202023-07-03%2011-57-53.png>
 
 **Listar onus não autorizadas**
 ```
